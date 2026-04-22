@@ -15,7 +15,7 @@
 💻 Full Stack Developer | 🤖 AI Automation Enthusiast  
 
 I build **scalable web applications and intelligent systems** with a strong focus on  
-✨ **clean UI/UX + ⚡ **performance + real-world usability**
+clean UI/UX + ⚡ **performance + real-world usability**
 
 🏆 Highlights:
 - 🤖 Salesforce Certified Agentforce Specialist  
@@ -26,7 +26,7 @@ I build **scalable web applications and intelligent systems** with a strong focu
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href=https://www.linkedin.com/in/ziya-khan-536b0235b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:ziyak5344@gmail.com">
