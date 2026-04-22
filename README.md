@@ -45,7 +45,7 @@ I build **scalable web applications and intelligent systems** with a strong focu
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Gemini_API-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Salesforce-Agentforce-00A1E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI-Glassmorphism-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ I build **scalable web applications and intelligent systems** with a strong focu
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZIYA8909&theme=react-dark" />
 </p>
 
 ---
