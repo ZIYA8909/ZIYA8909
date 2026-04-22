@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ziya+Khan+👋;Full+Stack+Developer+%7C+AI+Automation;React+%7C+Node+%7C+Gemini+API;Building+Scalable+Digital+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ziya+Khan+👋;Full+Stack+Developer+%7C+AI+Automation+Enthusiast;Building+Scalable+Digital+Experiences+🚀" />
 </p>
 
 <p align="center">
@@ -15,10 +15,9 @@
 💻 Full Stack Developer | 🤖 AI Automation Enthusiast  
 
 I build **scalable web applications and intelligent systems** with a strong focus on  
-✨ **clean UI/UX (Glassmorphism)** + ⚡ **performance + real-world usability**
+✨ **clean UI/UX + ⚡ **performance + real-world usability**
 
 🏆 Highlights:
-- 🥇 NPTEL Elite (Java – IIT Kharagpur)  
 - 🤖 Salesforce Certified Agentforce Specialist  
 - 💼 Frontend Intern @ Codtech IT Solutions  
 
@@ -75,11 +74,11 @@ I build **scalable web applications and intelligent systems** with a strong focu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZIYA8909&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZIYA8909&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
