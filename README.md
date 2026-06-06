@@ -21,7 +21,7 @@ clean UI/UX + ⚡ **performance + real-world usability**
 - 🤖 Salesforce Certified Agentforce Specialist  
 - 💼 Frontend Intern @ Codtech IT Solutions  
 - 💼 Web Developer Intern @ Codec Technologies
-- 
+
 ---
 
 ## 🌐 Connect with Me
