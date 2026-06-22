@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ziya+Khan+👋;Full+Stack+Developer+%7C+AI+Automation+Enthusiast;Building+Scalable+Digital+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ziya+Khan+👋;Software+Engineer+%7C+Full+Stack+Developer;React.js+%7C+AI+Integration+%7C+Web+Security+🚀;Building+Scalable+Digital+Experiences+🌐" />
 </p>
 
 <p align="center">
@@ -11,16 +11,19 @@
 
 # 💫 About Me
 
-🎓 B.Tech CSE (Software Engineering) @ SRMIST  
+🎓 B.Tech CSE (Software Engineering) @ SRMIST, Kattankulathur — Expected June 2028  
 💻 Full Stack Developer | 🤖 AI Automation Enthusiast  
 
 I build **scalable web applications and intelligent systems** with a strong focus on  
 clean UI/UX + ⚡ **performance + real-world usability**
 
 🏆 Highlights:
-- 🤖 Salesforce Certified Agentforce Specialist  
-- 💼 Frontend Intern @ Codtech IT Solutions  
-- 💼 Web Developer Intern @ Codec Technologies
+- 🤖 Salesforce Certified Agentforce Specialist — Dec 2025  
+- 📊 GenAI Powered Data Analytics Job Simulation by Tata Group on Forage — June 2026  
+- 🏅 Finalist — OSSOME HACKS 3.0, GitHub Community SRM — April 2026  
+- 🏅 Guidewire DEVTrails University Hackathon — 2026  
+- 💼 Web Developer Intern @ Codec Technologies  
+- 💼 Frontend Intern @ Codtech IT Solutions Pvt. Ltd.  
 
 ---
 
@@ -53,22 +56,36 @@ clean UI/UX + ⚡ **performance + real-world usability**
 
 ## 💼 Experience
 
-### Frontend Developer Intern — Codtech IT Solutions  
-📅 Jan 2026 – Feb 2026  
+### Web Developer Intern — Codec Technologies  
+📅 May 2026 – June 2026 | Remote  
 
-- Developed **responsive, user-centric interfaces**  
-- Worked in an **ISO 9001 certified environment**  
-- Recognized for **consistent performance and contributions**  
+- Collaborated on **code reviews and debugging** tasks to enhance code quality and team efficiency  
+- Transformed concepts into **user flows, wireframes, and prototypes** to enhance user experiences  
+- Identified and reported **security system performance issues**, facilitating timely resolutions  
+- Created **technical documentation** including flowcharts, user manuals, and API reference guides  
+- Monitored key **system performance metrics**, ensuring optimal optimization of page load times and API responses  
+
+---
+
+### Frontend Developer Intern — Codtech IT Solutions Pvt. Ltd.  
+📅 Jan 2026 – Feb 2026 | Remote  
+
+- Collaborated with team members to design and implement **intuitive interface features** that enhanced user engagement  
+- Created **interactive prototypes** that facilitated user testing and refined overall user experience  
+- Designed **responsive web layouts** utilizing HTML, CSS, and JavaScript frameworks  
+- Developed **reusable components** that streamlined development process across multiple projects  
 
 ---
 
 ## 🧠 Core Strengths
 
-- ⚡ Strong foundation in **Full Stack Development**
-- 🤖 Experience with **AI integrations (Gemini API, Agentforce)**
+- ⚛️ Strong foundation in **React.js development** and JavaScript frameworks  
+- 🤖 Experience with **AI integrations (Gemini API, Agentforce)**  
 - 🎨 Advanced UI focus (**Glassmorphism + animations**)  
+- 🔐 Knowledgeable in **web security practices**  
+- 📄 Skilled in **technical documentation** and **code reviews**  
 - 🧩 Problem solving using **DSA concepts**  
-- 🚀 Ability to build **scalable and modular systems**
+- 🚀 Ability to build **scalable and modular systems**  
 
 ---
 
@@ -96,6 +113,7 @@ clean UI/UX + ⚡ **performance + real-world usability**
 
 - 🚀 Building AI-integrated applications  
 - 🌐 Improving full stack architecture skills  
+- 🔐 Deepening knowledge in web security practices  
 - 🧠 Strengthening DSA + system design  
 - 💼 Preparing for top-tier internships  
 
