@@ -22,8 +22,8 @@ clean UI/UX + ⚡ **performance + real-world usability**
 - 📊 GenAI Powered Data Analytics Job Simulation by Tata Group on Forage — June 2026  
 - 🏅 Finalist — OSSOME HACKS 3.0, GitHub Community SRM — April 2026  
 - 🏅 Guidewire DEVTrails University Hackathon — 2026  
-- 💼 Web Developer Intern @ Codec Technologies  
-- 💼 Frontend Intern @ Codtech IT Solutions Pvt. Ltd.  
+- 💼 Ex-Web Developer Intern @ Codec Technologies  
+- 💼 Ex-Frontend Intern @ Codtech IT Solutions Pvt. Ltd.  
 
 ---
 
